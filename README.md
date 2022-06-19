@@ -4,7 +4,7 @@ Mask R-CNN Tutorial with Kaggle Oral Cancer (Lips and Tongue) images Dataset
 
 ## Buildup instruction
 
-1. Download "MaskRCNN_setup.ipynb"
+1. Download "MaskRCNN_setup.ipynb" (Right click > Save as...)
 2. Upload on your Google drive home page
 3. Open MaskRCNN_setup.ipynb with "Colab" (Link more app > Colab)
 4. Run code and check "MaskRCNN_Tutorial" folder at drive home page
